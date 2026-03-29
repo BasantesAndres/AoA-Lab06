@@ -270,7 +270,7 @@ In addition, the repository includes both:
 
 ## 👨‍💻 Author
 
-**Andrés**  
+**Andrés Basantes**  
 Analysis of Algorithms - Lab 06
 
 ---
